@@ -27,7 +27,7 @@ class App extends Component {
     }
 
     if (valido) {
-      state.textoLabel = "Login validado com sucesso!"
+      state.textoLabel = "Acessado com sucesso!"
     } else {
       state.textoLabel = "Usuário ou senha incorretos!"
     } 
