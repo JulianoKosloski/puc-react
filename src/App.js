@@ -22,7 +22,7 @@ class App extends Component {
     let valido = false;
     let state = this.state;
 
-    if (state.username === "juliano.koslos@gmail.com" && state.password === "123456") {
+    if (state.username === "juliano.koslos@puc.com.br" && state.password === "123456") {
       valido = true;
     }
 
